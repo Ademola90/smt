@@ -36,3 +36,111 @@
     transform: rotate(360deg);
   }
 }
+
+@font-face {
+  font-family: Nunito;
+  src: url("https://fonts.googleapis.com/css?family=Nunito:200,300,regular,500,600,700,800,900,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic");
+}
+@font-face {
+  font-family: Segoe UI;
+  src: url("../src/assets/fonts/segoe.ttf");
+}
+
+@font-face {
+  font-family: Inter;
+  src: url("../src/assets/fonts/inter.ttf");
+}
+@font-face {
+  font-family: Manrope;
+  src: url("../src/assets/fonts/regular.otf");
+}
+@font-face {
+  font-family: Poppins;
+  src: url("../src//assets/fonts/Poppins.otf");
+}
+@font-face {
+  font-family: Sansation;
+  src: url("../src/assets/fonts/Sansation_Regular.ttf");
+}
+@font-face {
+  font-family: Calibri;
+  src: url("./assets/fonts/calibril.ttf");
+}
+@font-face {
+  font-family: "Microsoft San Serif";
+  src: url("./assets/fonts/micross.ttf");
+}
+@font-face {
+  font-family: Sora;
+  src: url("./assets/fonts/Sora-Regular.ttf");
+}
+@font-face {
+  font-family: Soralight;
+  src: url("./assets/fonts/Sora-Light.ttf");
+}
+@font-face {
+  font-family: "Manrope", sans-serif;
+  src: url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
+}
+@font-face {
+  font-family: "Albert Sans", sans-serif;
+  src: url("https://fonts.googleapis.com/css2?family=Albert+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+}
+
+@font-face {
+  font-family: Satoshi;
+  src: url("./assets/fonts/Satoshi-Regular.otf");
+}
+@font-face {
+  font-family: Slight;
+  src: url("./assets/fonts/Satoshi-Light.otf");
+}
+
+@font-face {
+  font-family: "Kumbh Sans", sans-serif;
+  src: url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&display=swap");
+}
+
+.Kumbh {
+  font-family: "Kumbh Sans", sans-serif;
+}
+
+.Satoshi {
+  font-family: Satoshi !important;
+}
+.Satoshi {
+  font-family: Slight;
+}
+
+.Poppins {
+  font-family: Poppins !important;
+}
+.Sora {
+  font-family: Sora !important;
+}
+.Soralight {
+  font-family: Soralight !important;
+}
+
+.albertSans {
+  font-family: Albert San;
+}
+
+.printOnly {
+  font-family: Calibri !important;
+}
+.sansation {
+  font-family: Sansation !important;
+}
+.nunito {
+  font-family: Nunito !important;
+}
+.segoe {
+  font-family: Segoe UI;
+}
+.inter {
+  font-family: Inter;
+}
+.manrope {
+  font-family: Manrope;
+}
